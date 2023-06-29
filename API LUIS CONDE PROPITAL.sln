@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API LUIS CONDE PROPITAL", "API LUIS CONDE PERSONALSOFT\API LUIS CONDE PROPITAL.csproj", "{3654B74E-F4A2-412C-B465-2B7873A84079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROPITAL_UNIT_TESTING", "PROPITAL_UNIT_TESTING\PROPITAL_UNIT_TESTING.csproj", "{B62549C4-F67B-435D-B047-E78E35F1A1C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3654B74E-F4A2-412C-B465-2B7873A84079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3654B74E-F4A2-412C-B465-2B7873A84079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3654B74E-F4A2-412C-B465-2B7873A84079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3654B74E-F4A2-412C-B465-2B7873A84079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62549C4-F67B-435D-B047-E78E35F1A1C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62549C4-F67B-435D-B047-E78E35F1A1C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62549C4-F67B-435D-B047-E78E35F1A1C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62549C4-F67B-435D-B047-E78E35F1A1C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA516629-8162-4383-8AA4-C5C140BFBB76}
+	EndGlobalSection
+EndGlobal
